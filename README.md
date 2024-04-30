@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stilwebm
 - 👀 I’m interested in OSS, food, travel
 - 🌱 I’m currently learning parenting 🤣
-- 💞️ I’m looking to collaborate on strategy for high growth, innovative products that change the world.
+- 💞️ I love using technology to improve the way we work and live our lives.
 <!--- - 📫 How to reach me ... --->
 
 <!---
