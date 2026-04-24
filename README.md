@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stilwebm
 - 👀 I’m interested in OSS, food, travel
 - 👨🏻‍💻 Software engineer turned Product Leader.
-- 🌱 I’m currently learning parenting, TypeScript, Python, and building agentic environments for automation, building, and research.
+- 🌱 I’m currently learning parenting, TypeScript, Python, and building for automation, learning apps, and research.
 - 💞️ I love using technology to improve the way we work and live our lives.
 <!--- - 📫 How to reach me ... --->
 
